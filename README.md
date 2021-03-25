@@ -1,4 +1,4 @@
-# Ejercicio práctico para Ingeniero de Datos Jr en Deacero.
+# Ejercicio práctico para Data Engineer Jr en Deacero.
 
 Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo.
 
@@ -12,7 +12,7 @@ Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo
 | Lista Viajes 2017         | http://analytics.deacero.com/Api/GetApi/ApiVuelos2017/api_key     |
 | Lista Aerolíneas          | http://analytics.deacero.com/Api/GetApi/ApiLineaAerea/api_key     |
 
-  Nota: El api_key válido se proporciona por correo.
+  Nota: El api_key válido se proporciona por correo. En caso de esar interesado en aplicar al test puede enviar correo a <jguerrero@deacero.com>
 
 2. Se tiene un requerimiento de análisis de las fuentes de datos de pasajeros y viajes. Como podrás observar, las listas se han estado llevando por año. En esta primera parte del reto se te pide: 
     - Unir cada conjunto de datos en una sola lista. 
