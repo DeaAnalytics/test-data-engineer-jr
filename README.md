@@ -37,7 +37,7 @@ Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo
     - ¿Qué tipo de unión utilizaste para unir los datos? 
     - ¿Qué tipo de proceso utilizaste para dejar únicamente las columnas que se piden? 
    
-5. Por último, se requiere esta misma información por Clase, Ruta, Línea Aérea y los promedios de Precio y Edad por cada semestre de cada año, el primer semestre es de Ene - Jun y el segundo es de Jul - Dic. 
+5. Por último, se requiere el promedio semestral (el primer semestre es de Ene - Jun y el segundo es de Jul - Dic) del precio agrupado por Año, Clase, Ruta y las Línea Aérea como columnas. 
 
 Los ejercicios deben realizarse en Python, además de un documento donde se contesten las preguntas y se muestren los resultados de las transformaciones. En caso de trabajar con notebooks de jupyter puede exportarse en HTML. 
 
