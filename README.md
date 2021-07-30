@@ -2,17 +2,9 @@
 
 Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo.
 
-1. Obtén los datos de las siguientes fuentes desde las apis:
+1. Obtén los datos de la siguientes fuente de apis: https://analytics.deacero.com/api/expuesta/sqlexp/api_key 
 
-| Dataset                   | Url                                                               |
-| ------------------------- | ----------------------------------------------------------------- |
-| Lista Pasajeros 2016      | http://analytics.deacero.com/Api/GetApi/ApiPasajeros2016/api_key  |
-| Lista Pasajeros 2017      | http://analytics.deacero.com/Api/GetApi/ApiPasajeros2017/api_key  |
-| Lista Viajes 2016         | http://analytics.deacero.com/Api/GetApi/ApiVuelos2016/api_key     |
-| Lista Viajes 2017         | http://analytics.deacero.com/Api/GetApi/ApiVuelos2017/api_key     |
-| Lista Aerolíneas          | http://analytics.deacero.com/Api/GetApi/ApiLineaAerea/api_key     |
-
-  Nota: El api_key válido se proporciona por correo. En caso de estar interesado en aplicar al test puede enviar correo a <jguerrero@deacero.com>
+  Nota: Los api_keys válidos se proporcionan por correo. En caso de estar interesado en aplicar al test puede enviar correo a <jguerrero@deacero.com>
 
 2. Se tiene un requerimiento de análisis de las fuentes de datos de pasajeros y viajes. Como podrás observar, las listas se han estado llevando por año. En esta primera parte del reto se te pide: 
     - Unir cada conjunto de datos en una sola lista. 
