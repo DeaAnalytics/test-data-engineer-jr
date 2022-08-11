@@ -2,7 +2,7 @@
 
 Debe realizar un fork de este repositorio para desarrollar y entregar su trabajo.
 
-1. Obtén los datos de la siguientes fuente de apis: https://analytics.deacero.com/api/expuesta/sqlexp/api_key 
+1. Obtén los datos de la siguientes fuente de apis: https://analytics.deacero.com/api/teenus/get-data/[api_key]?format=json
 
   Nota: Los api_keys válidos se proporcionan por correo. En caso de estar interesado en aplicar al test puede enviar correo a <jguerrero@deacero.com>
 
